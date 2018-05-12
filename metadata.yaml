@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8264
     wikipedia: http://en.wikipedia.org/wiki/John_Henry_Newman
 description: Part I. Assent and apprehension -- Part II. Assent and inference.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34022#An-Essay-In-Aid-Of-A-Grammar-Of-Assent
 gutenberg_issued: '2010-10-01'
 gutenberg_type: Text
 identifiers:
