@@ -1,0 +1,31 @@
+_repo: An-Essay-In-Aid-Of-A-Grammar-Of-Assent_34022
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Newman, John Henry
+    aliases:
+    - Newman, John Henry, Cardinal
+    - Newman, J. H. (John Henry)
+    birthdate: 1801
+    deathdate: 1890
+    gutenberg_agent_id: '8264'
+    url: http://www.gutenberg.org/2009/agents/8264
+    wikipedia: http://en.wikipedia.org/wiki/John_Henry_Newman
+description: Part I. Assent and apprehension -- Part II. Assent and inference.
+gutenberg_issued: '2010-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34022'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theism'
+- !lcc 'BR'
+- !lcsh 'Faith'
+title: An Essay in Aid of a Grammar of Assent
+url: http://www.gutenberg.org/ebooks/34022
